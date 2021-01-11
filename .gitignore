@@ -3,6 +3,8 @@ database/
 public/
 routes/
 storage/
+config/
+bootstrap/
 node_modules/
 npm-debug.log
 yarn-error.log
